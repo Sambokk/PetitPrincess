@@ -1,0 +1,67 @@
+{
+     "Components": {
+          "MeshRenderer": {
+               "m_UID": 1995,
+               "m_name": ""
+          },
+          "ShopKeeperCallingScript": {
+               "m_UID": 1997,
+               "m_name": ""
+          },
+          "SphereCollider": {
+               "m_UID": 1996,
+               "m_angularDamping": 0.05000000074505806,
+               "m_disableGravity": true,
+               "m_dynamicFriction": 0.5,
+               "m_freezePositionX": false,
+               "m_freezePositionY": false,
+               "m_freezePositionZ": false,
+               "m_freezeRotationX": false,
+               "m_freezeRotationY": false,
+               "m_freezeRotationZ": false,
+               "m_isTrigger": true,
+               "m_linearDamping": 0.0,
+               "m_mass": 10.0,
+               "m_name": "",
+               "m_offset": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+               },
+               "m_radius": 10.0,
+               "m_restitution": 0.6000000238418579,
+               "m_shapeType": 1,
+               "m_staticFriction": 0.5,
+               "m_type": 1
+          },
+          "Transform": {
+               "m_localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+               },
+               "m_localRotation": {
+                    "w": 1.1920936060505483e-07,
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 0.0
+               },
+               "m_localScale": {
+                    "x": 1.0000004768371582,
+                    "y": 1.0,
+                    "z": 1.0000004768371582
+               }
+          }
+     },
+     "Entity": {
+          "m_activeSelf": true,
+          "m_addressID": 2018156385840,
+          "m_id": 931,
+          "m_isRender": true,
+          "m_layer": 0,
+          "m_layerCollision": 1,
+          "m_name": "callingRange (438)",
+          "m_prefabID": 0
+     },
+     "Parent": "SampleMerchant (436)"
+}

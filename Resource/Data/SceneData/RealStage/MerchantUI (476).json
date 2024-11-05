@@ -1,0 +1,89 @@
+{
+     "Components": {
+          "MerchantUI": {
+               "m_UID": 2175,
+               "m_name": ""
+          },
+          "MeshFilter": {
+               "PBRSet": {
+                    "baseColor": {
+                         "w": 1.0,
+                         "x": 1.0,
+                         "y": 1.0,
+                         "z": 1.0
+                    },
+                    "metallic": 0.0,
+                    "roughness": 1.0,
+                    "useBaseColorMap": true,
+                    "useMetallicMap": false,
+                    "useNormalMap": false,
+                    "useRoughnessMap": false
+               },
+               "m_UID": 2173,
+               "m_cloneModelKey": 64,
+               "m_cullingBox": {
+                    "x": 10.0,
+                    "y": 10.0
+               },
+               "m_cullingOff": false,
+               "m_modelKey": [
+                    91,
+                    51,
+                    55,
+                    53,
+                    93,
+                    32,
+                    77,
+                    101,
+                    114,
+                    99,
+                    104,
+                    97,
+                    110,
+                    116,
+                    85,
+                    73,
+                    95,
+                    99,
+                    108,
+                    111,
+                    110,
+                    101
+               ],
+               "m_name": ""
+          },
+          "Transform": {
+               "m_localPosition": {
+                    "x": -0.4999995231628418,
+                    "y": 0.0,
+                    "z": -3.0000014305114746
+               },
+               "m_localRotation": {
+                    "w": 1.1920936060505483e-07,
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 0.0
+               },
+               "m_localScale": {
+                    "x": 1.0000004768371582,
+                    "y": 1.0,
+                    "z": 1.0000004768371582
+               }
+          },
+          "UIRenderer": {
+               "m_UID": 2174,
+               "m_name": ""
+          }
+     },
+     "Entity": {
+          "m_activeSelf": true,
+          "m_addressID": 2018156400528,
+          "m_id": 969,
+          "m_isRender": false,
+          "m_layer": 0,
+          "m_layerCollision": 1,
+          "m_name": "MerchantUI (476)",
+          "m_prefabID": 0
+     },
+     "Parent": "SampleMerchant (475)"
+}

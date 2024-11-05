@@ -1,0 +1,87 @@
+{
+     "Components": {
+          "MeshFilter": {
+               "PBRSet": {
+                    "baseColor": {
+                         "w": 1.0,
+                         "x": 1.0,
+                         "y": 1.0,
+                         "z": 1.0
+                    },
+                    "metallic": 0.0,
+                    "roughness": 1.0,
+                    "useBaseColorMap": true,
+                    "useMetallicMap": false,
+                    "useNormalMap": false,
+                    "useRoughnessMap": false
+               },
+               "m_UID": 2288,
+               "m_cloneModelKey": 53,
+               "m_cullingBox": {
+                    "x": 10.0,
+                    "y": 10.0
+               },
+               "m_cullingOff": false,
+               "m_modelKey": [
+                    91,
+                    52,
+                    52,
+                    55,
+                    93,
+                    32,
+                    85,
+                    73,
+                    71,
+                    97,
+                    117,
+                    103,
+                    101,
+                    95,
+                    99,
+                    108,
+                    111,
+                    110,
+                    101
+               ],
+               "m_name": ""
+          },
+          "Transform": {
+               "m_localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+               },
+               "m_localRotation": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+               },
+               "m_localScale": {
+                    "x": 0.05000000074505806,
+                    "y": 0.05000000074505806,
+                    "z": 0.05000000074505806
+               }
+          },
+          "UIRenderer": {
+               "m_UID": 2287,
+               "m_name": "UIRenderer"
+          },
+          "UITestScript": {
+               "m_UID": 31,
+               "m_isMinimapOn": false,
+               "m_name": "",
+               "m_type": 3
+          }
+     },
+     "Entity": {
+          "m_activeSelf": true,
+          "m_addressID": 2543715841024,
+          "m_id": 505,
+          "m_isRender": true,
+          "m_layer": 0,
+          "m_layerCollision": 1,
+          "m_name": "AimmingUI",
+          "m_prefabID": 0
+     }
+}

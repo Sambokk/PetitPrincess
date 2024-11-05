@@ -1,0 +1,141 @@
+{
+     "Components": {
+          "BoxCollider": {
+               "m_UID": 587,
+               "m_angularDamping": 0.05000000074505806,
+               "m_disableGravity": false,
+               "m_dynamicFriction": 0.5,
+               "m_freezePositionX": false,
+               "m_freezePositionY": false,
+               "m_freezePositionZ": false,
+               "m_freezeRotationX": false,
+               "m_freezeRotationY": false,
+               "m_freezeRotationZ": false,
+               "m_isTrigger": false,
+               "m_linearDamping": 0.0,
+               "m_mass": 10.0,
+               "m_name": "",
+               "m_offset": {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 0.0
+               },
+               "m_restitution": 0.6000000238418579,
+               "m_shapeType": 1,
+               "m_size": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+               },
+               "m_staticFriction": 0.5,
+               "m_type": 1
+          },
+          "FoodTableScript": {
+               "m_UID": 586,
+               "m_foodType": 1,
+               "m_isClear": false,
+               "m_isDeliciousFood": false,
+               "m_isGuardArrive": false,
+               "m_merchantSenseTime": 3.0,
+               "m_miniGameID": 13,
+               "m_name": "",
+               "m_reVisitEndTime": 5.0
+          },
+          "MeshFilter": {
+               "PBRSet": {
+                    "baseColor": {
+                         "w": 1.0,
+                         "x": 1.0,
+                         "y": 1.0,
+                         "z": 1.0
+                    },
+                    "metallic": 0.0,
+                    "roughness": 1.0,
+                    "useBaseColorMap": true,
+                    "useMetallicMap": false,
+                    "useNormalMap": false,
+                    "useRoughnessMap": false
+               },
+               "m_UID": 584,
+               "m_cloneModelKey": 12,
+               "m_cullingBox": {
+                    "x": 10.0,
+                    "y": 10.0
+               },
+               "m_cullingOff": false,
+               "m_modelKey": [
+                    91,
+                    57,
+                    57,
+                    93,
+                    32,
+                    95,
+                    99,
+                    108,
+                    111,
+                    110,
+                    101
+               ],
+               "m_name": ""
+          },
+          "MeshRenderer": {
+               "m_UID": 583,
+               "m_name": "TableRenderer"
+          },
+          "SphereCollider": {
+               "m_UID": 585,
+               "m_angularDamping": 0.05000000074505806,
+               "m_disableGravity": true,
+               "m_dynamicFriction": 0.5,
+               "m_freezePositionX": false,
+               "m_freezePositionY": false,
+               "m_freezePositionZ": false,
+               "m_freezeRotationX": false,
+               "m_freezeRotationY": false,
+               "m_freezeRotationZ": false,
+               "m_isTrigger": true,
+               "m_linearDamping": 0.0,
+               "m_mass": 10.0,
+               "m_name": "",
+               "m_offset": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+               },
+               "m_radius": 3.0,
+               "m_restitution": 0.6000000238418579,
+               "m_shapeType": 1,
+               "m_staticFriction": 0.5,
+               "m_type": 1
+          },
+          "Transform": {
+               "m_localPosition": {
+                    "x": -0.5,
+                    "y": 0.0,
+                    "z": -4.0
+               },
+               "m_localRotation": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+               },
+               "m_localScale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+               }
+          }
+     },
+     "Entity": {
+          "m_activeSelf": true,
+          "m_addressID": 2017193367536,
+          "m_id": 622,
+          "m_isRender": true,
+          "m_layer": 0,
+          "m_layerCollision": 1,
+          "m_name": "SampleTable (129)",
+          "m_prefabID": 0
+     },
+     "Parent": "SampleStore (125)"
+}

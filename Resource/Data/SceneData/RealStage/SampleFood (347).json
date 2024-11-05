@@ -1,0 +1,75 @@
+{
+     "Components": {
+          "MeshFilter": {
+               "PBRSet": {
+                    "baseColor": {
+                         "w": 1.0,
+                         "x": 1.0,
+                         "y": 1.0,
+                         "z": 1.0
+                    },
+                    "metallic": 0.0,
+                    "roughness": 1.0,
+                    "useBaseColorMap": true,
+                    "useMetallicMap": false,
+                    "useNormalMap": false,
+                    "useRoughnessMap": false
+               },
+               "m_UID": 1587,
+               "m_cloneModelKey": 13,
+               "m_cullingBox": {
+                    "x": 10.0,
+                    "y": 10.0
+               },
+               "m_cullingOff": false,
+               "m_modelKey": [
+                    91,
+                    50,
+                    55,
+                    51,
+                    93,
+                    32,
+                    95,
+                    99,
+                    108,
+                    111,
+                    110,
+                    101
+               ],
+               "m_name": ""
+          },
+          "MeshRenderer": {
+               "m_UID": 1586,
+               "m_name": "FoodRenderer"
+          },
+          "Transform": {
+               "m_localPosition": {
+                    "x": 0.5,
+                    "y": 1.0,
+                    "z": 0.0
+               },
+               "m_localRotation": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+               },
+               "m_localScale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+               }
+          }
+     },
+     "Entity": {
+          "m_activeSelf": true,
+          "m_addressID": 2017209069200,
+          "m_id": 840,
+          "m_isRender": true,
+          "m_layer": 0,
+          "m_layerCollision": 1,
+          "m_name": "SampleFood (347)",
+          "m_prefabID": 0
+     },
+     "Parent": "SampleTable (346)"
+}

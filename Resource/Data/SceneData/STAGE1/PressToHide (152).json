@@ -1,0 +1,83 @@
+{
+     "Components": {
+          "MeshFilter": {
+               "PBRSet": {
+                    "baseColor": {
+                         "w": 1.0,
+                         "x": 1.0,
+                         "y": 1.0,
+                         "z": 1.0
+                    },
+                    "metallic": 0.0,
+                    "roughness": 1.0,
+                    "useBaseColorMap": true,
+                    "useMetallicMap": false,
+                    "useNormalMap": false,
+                    "useRoughnessMap": false
+               },
+               "m_UID": 2339,
+               "m_cloneModelKey": 52,
+               "m_cullingBox": {
+                    "x": 10.0,
+                    "y": 10.0
+               },
+               "m_cullingOff": false,
+               "m_modelKey": [
+                    91,
+                    52,
+                    48,
+                    51,
+                    93,
+                    32,
+                    85,
+                    73,
+                    95,
+                    99,
+                    108,
+                    111,
+                    110,
+                    101
+               ],
+               "m_name": ""
+          },
+          "Transform": {
+               "m_localPosition": {
+                    "x": 424.0,
+                    "y": 0.0,
+                    "z": -45.0
+               },
+               "m_localRotation": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+               },
+               "m_localScale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+               }
+          },
+          "UIRenderer": {
+               "m_UID": 2338,
+               "m_name": "UIRenderer"
+          },
+          "UITestScript": {
+               "m_UID": 691,
+               "m_isMinimapOn": false,
+               "m_name": "",
+               "m_type": 0
+          }
+     },
+     "Entity": {
+          "m_activeSelf": true,
+          "m_addressID": 2017193369264,
+          "m_id": 645,
+          "m_isRender": false,
+          "m_layer": 0,
+          "m_layerCollision": 1,
+          "m_name": "PressToHide (152)",
+          "m_prefabID": 0
+     },
+     "Parent": "HideInteractionObject (151)"
+}

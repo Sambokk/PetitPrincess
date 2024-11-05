@@ -1,0 +1,163 @@
+{
+     "Components": {
+          "MeshFilter": {
+               "PBRSet": {
+                    "baseColor": {
+                         "w": 1.0,
+                         "x": 1.0,
+                         "y": 1.0,
+                         "z": 1.0
+                    },
+                    "metallic": 0.0,
+                    "roughness": 1.0,
+                    "useBaseColorMap": true,
+                    "useMetallicMap": false,
+                    "useNormalMap": false,
+                    "useRoughnessMap": false
+               },
+               "m_UID": 525,
+               "m_cloneModelKey": 15,
+               "m_cullingBox": {
+                    "x": 10.0,
+                    "y": 10.0
+               },
+               "m_cullingOff": false,
+               "m_modelKey": [
+                    91,
+                    57,
+                    48,
+                    93,
+                    32,
+                    80,
+                    108,
+                    97,
+                    121,
+                    101,
+                    114,
+                    95,
+                    99,
+                    108,
+                    111,
+                    110,
+                    101
+               ],
+               "m_name": ""
+          },
+          "MeshRenderer": {
+               "m_UID": 524,
+               "m_name": "MerchantRenderer"
+          },
+          "RayCaster1": {
+               "m_UID": 534,
+               "m_distance": 10.0,
+               "m_name": "",
+               "m_startPosOffset": {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 1.0
+               },
+               "m_unitDirOffset": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0
+               }
+          },
+          "RayCaster2": {
+               "m_UID": 535,
+               "m_distance": 10.0,
+               "m_name": "",
+               "m_startPosOffset": {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 1.0
+               },
+               "m_unitDirOffset": {
+                    "x": -0.2516338527202606,
+                    "y": 0.0,
+                    "z": 0.9678225517272949
+               }
+          },
+          "RayCaster3": {
+               "m_UID": 536,
+               "m_distance": 10.0,
+               "m_name": "",
+               "m_startPosOffset": {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 1.0
+               },
+               "m_unitDirOffset": {
+                    "x": 0.2516338527202606,
+                    "y": 0.0,
+                    "z": 0.9678225517272949
+               }
+          },
+          "RayCaster4": {
+               "m_UID": 537,
+               "m_distance": 10.0,
+               "m_name": "",
+               "m_startPosOffset": {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 1.0
+               },
+               "m_unitDirOffset": {
+                    "x": -0.1289152354001999,
+                    "y": 0.0,
+                    "z": 0.9916556477546692
+               }
+          },
+          "RayCaster5": {
+               "m_UID": 538,
+               "m_distance": 10.0,
+               "m_name": "",
+               "m_startPosOffset": {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 1.0
+               },
+               "m_unitDirOffset": {
+                    "x": 0.1289152354001999,
+                    "y": 0.0,
+                    "z": 0.9916556477546692
+               }
+          },
+          "ShopKeeperDoubtScript": {
+               "m_UID": 523,
+               "m_name": ""
+          },
+          "ShopKeeperFSM": {
+               "m_UID": 522,
+               "m_name": ""
+          },
+          "Transform": {
+               "m_localPosition": {
+                    "x": -0.5,
+                    "y": 0.0,
+                    "z": -3.0
+               },
+               "m_localRotation": {
+                    "w": -1.1920928955078125e-07,
+                    "x": 0.0,
+                    "y": 0.9999998807907104,
+                    "z": -0.0
+               },
+               "m_localScale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+               }
+          }
+     },
+     "Entity": {
+          "m_activeSelf": true,
+          "m_addressID": 2017201623040,
+          "m_id": 609,
+          "m_isRender": true,
+          "m_layer": 0,
+          "m_layerCollision": 1,
+          "m_name": "SampleMerchant (116)",
+          "m_prefabID": 0
+     },
+     "Parent": "SampleStore (115)"
+}

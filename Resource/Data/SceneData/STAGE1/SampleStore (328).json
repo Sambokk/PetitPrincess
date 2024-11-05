@@ -1,0 +1,114 @@
+{
+     "Components": {
+          "BoxCollider": {
+               "m_UID": 1490,
+               "m_angularDamping": 0.05000000074505806,
+               "m_disableGravity": false,
+               "m_dynamicFriction": 0.5,
+               "m_freezePositionX": false,
+               "m_freezePositionY": false,
+               "m_freezePositionZ": false,
+               "m_freezeRotationX": false,
+               "m_freezeRotationY": false,
+               "m_freezeRotationZ": false,
+               "m_isTrigger": false,
+               "m_linearDamping": 0.0,
+               "m_mass": 10.0,
+               "m_name": "",
+               "m_offset": {
+                    "x": -0.699999988079071,
+                    "y": 3.799999952316284,
+                    "z": 0.20000000298023224
+               },
+               "m_restitution": 0.6000000238418579,
+               "m_shapeType": 1,
+               "m_size": {
+                    "x": 7.0,
+                    "y": 7.5,
+                    "z": 5.800000190734863
+               },
+               "m_staticFriction": 0.5,
+               "m_type": 1
+          },
+          "MeshFilter": {
+               "PBRSet": {
+                    "baseColor": {
+                         "w": 1.0,
+                         "x": 1.0,
+                         "y": 1.0,
+                         "z": 1.0
+                    },
+                    "metallic": 0.0,
+                    "roughness": 1.0,
+                    "useBaseColorMap": true,
+                    "useMetallicMap": false,
+                    "useNormalMap": false,
+                    "useRoughnessMap": false
+               },
+               "m_UID": 1489,
+               "m_cloneModelKey": 31,
+               "m_cullingBox": {
+                    "x": 10.0,
+                    "y": 10.0
+               },
+               "m_cullingOff": false,
+               "m_modelKey": [
+                    91,
+                    50,
+                    53,
+                    55,
+                    93,
+                    32,
+                    66,
+                    114,
+                    101,
+                    97,
+                    100,
+                    83,
+                    116,
+                    111,
+                    114,
+                    101,
+                    95,
+                    99,
+                    108,
+                    111,
+                    110,
+                    101
+               ],
+               "m_name": ""
+          },
+          "MeshRenderer": {
+               "m_UID": 1488,
+               "m_name": "StoreRenderer"
+          },
+          "Transform": {
+               "m_localPosition": {
+                    "x": 52.0,
+                    "y": 0.0,
+                    "z": 101.0
+               },
+               "m_localRotation": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+               },
+               "m_localScale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+               }
+          }
+     },
+     "Entity": {
+          "m_activeSelf": true,
+          "m_addressID": 2017209070064,
+          "m_id": 821,
+          "m_isRender": true,
+          "m_layer": 0,
+          "m_layerCollision": 16,
+          "m_name": "SampleStore (328)",
+          "m_prefabID": 0
+     }
+}

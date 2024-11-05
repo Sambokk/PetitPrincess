@@ -1,0 +1,202 @@
+{
+     "Components": {
+          "CapsuleCollider": {
+               "m_UID": 2329,
+               "m_angularDamping": 0.05000000074505806,
+               "m_disableGravity": false,
+               "m_dynamicFriction": 0.5,
+               "m_freezePositionX": false,
+               "m_freezePositionY": false,
+               "m_freezePositionZ": false,
+               "m_freezeRotationX": true,
+               "m_freezeRotationY": true,
+               "m_freezeRotationZ": true,
+               "m_halfHeight": 1.0,
+               "m_isTrigger": false,
+               "m_linearDamping": 0.0,
+               "m_mass": 10.0,
+               "m_name": "",
+               "m_offset": {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 0.0
+               },
+               "m_radius": 0.5,
+               "m_restitution": 0.6000000238418579,
+               "m_shapeType": 1,
+               "m_staticFriction": 0.5,
+               "m_type": 1
+          },
+          "GuardFSM": {
+               "m_UID": 2332,
+               "m_combackPoint": {
+                    "x": 47.0,
+                    "y": 0.0,
+                    "z": 37.0
+               },
+               "m_name": "",
+               "m_patrolPath": [
+                    {
+                         "x": 47.0,
+                         "y": 0.0,
+                         "z": 37.0
+                    }
+               ]
+          },
+          "GuardScript": {
+               "m_UID": 2331,
+               "m_name": ""
+          },
+          "MeshFilter": {
+               "PBRSet": {
+                    "baseColor": {
+                         "w": 1.0,
+                         "x": 1.0,
+                         "y": 1.0,
+                         "z": 1.0
+                    },
+                    "metallic": 0.0,
+                    "roughness": 1.0,
+                    "useBaseColorMap": true,
+                    "useMetallicMap": false,
+                    "useNormalMap": false,
+                    "useRoughnessMap": false
+               },
+               "m_UID": 2330,
+               "m_cloneModelKey": 15,
+               "m_cullingBox": {
+                    "x": 10.0,
+                    "y": 10.0
+               },
+               "m_cullingOff": false,
+               "m_modelKey": [
+                    91,
+                    52,
+                    48,
+                    50,
+                    93,
+                    32,
+                    80,
+                    108,
+                    97,
+                    121,
+                    101,
+                    114,
+                    95,
+                    99,
+                    108,
+                    111,
+                    110,
+                    101
+               ],
+               "m_name": ""
+          },
+          "MeshRenderer": {
+               "m_UID": 2328,
+               "m_name": "PlayerRenderer"
+          },
+          "RayCaster1": {
+               "m_UID": 2333,
+               "m_distance": 10.0,
+               "m_name": "",
+               "m_startPosOffset": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0
+               },
+               "m_unitDirOffset": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0
+               }
+          },
+          "RayCaster2": {
+               "m_UID": 2334,
+               "m_distance": 10.0,
+               "m_name": "",
+               "m_startPosOffset": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0
+               },
+               "m_unitDirOffset": {
+                    "x": -0.2516338527202606,
+                    "y": 0.0,
+                    "z": 0.9678225517272949
+               }
+          },
+          "RayCaster3": {
+               "m_UID": 2335,
+               "m_distance": 10.0,
+               "m_name": "",
+               "m_startPosOffset": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0
+               },
+               "m_unitDirOffset": {
+                    "x": 0.2516338527202606,
+                    "y": 0.0,
+                    "z": 0.9678225517272949
+               }
+          },
+          "RayCaster4": {
+               "m_UID": 2336,
+               "m_distance": 10.0,
+               "m_name": "",
+               "m_startPosOffset": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0
+               },
+               "m_unitDirOffset": {
+                    "x": -0.1289152354001999,
+                    "y": 0.0,
+                    "z": 0.9916556477546692
+               }
+          },
+          "RayCaster5": {
+               "m_UID": 2337,
+               "m_distance": 10.0,
+               "m_name": "",
+               "m_startPosOffset": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0
+               },
+               "m_unitDirOffset": {
+                    "x": 0.1289152354001999,
+                    "y": 0.0,
+                    "z": 0.9916556477546692
+               }
+          },
+          "Transform": {
+               "m_localPosition": {
+                    "x": 47.0,
+                    "y": 0.0,
+                    "z": 37.0
+               },
+               "m_localRotation": {
+                    "w": 0.9981186985969543,
+                    "x": 0.0,
+                    "y": 0.06130891293287277,
+                    "z": 0.0
+               },
+               "m_localScale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+               }
+          }
+     },
+     "Entity": {
+          "m_activeSelf": true,
+          "m_addressID": 2017193459600,
+          "m_id": 625,
+          "m_isRender": true,
+          "m_layer": 0,
+          "m_layerCollision": 1,
+          "m_name": "Guard (132)",
+          "m_prefabID": 0
+     }
+}

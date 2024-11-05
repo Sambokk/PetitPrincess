@@ -1,0 +1,36 @@
+{
+     "Components": {
+          "Transform": {
+               "m_localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+               },
+               "m_localRotation": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+               },
+               "m_localScale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+               }
+          },
+          "UIDataSyncScript": {
+               "m_UID": 26,
+               "m_name": ""
+          }
+     },
+     "Entity": {
+          "m_activeSelf": true,
+          "m_addressID": 2017204569136,
+          "m_id": 501,
+          "m_isRender": true,
+          "m_layer": 0,
+          "m_layerCollision": 1,
+          "m_name": "DataSyncEntity",
+          "m_prefabID": 0
+     }
+}

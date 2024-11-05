@@ -1,0 +1,96 @@
+{
+     "Components": {
+          "InterKeyScript": {
+               "m_UID": 103,
+               "m_name": ""
+          },
+          "MeshFilter": {
+               "PBRSet": {
+                    "baseColor": {
+                         "w": 1.0,
+                         "x": 1.0,
+                         "y": 1.0,
+                         "z": 1.0
+                    },
+                    "metallic": 0.0,
+                    "roughness": 1.0,
+                    "useBaseColorMap": true,
+                    "useMetallicMap": false,
+                    "useNormalMap": false,
+                    "useRoughnessMap": false
+               },
+               "m_UID": 102,
+               "m_cloneModelKey": 50,
+               "m_cullingBox": {
+                    "x": 10.0,
+                    "y": 10.0
+               },
+               "m_cullingOff": false,
+               "m_modelKey": [
+                    91,
+                    49,
+                    53,
+                    93,
+                    32,
+                    81,
+                    84,
+                    69,
+                    95,
+                    73,
+                    110,
+                    116,
+                    101,
+                    114,
+                    97,
+                    99,
+                    116,
+                    105,
+                    118,
+                    101,
+                    75,
+                    101,
+                    121,
+                    95,
+                    99,
+                    108,
+                    111,
+                    110,
+                    101
+               ],
+               "m_name": ""
+          },
+          "Transform": {
+               "m_localPosition": {
+                    "x": 0.0,
+                    "y": 2.200000047683716,
+                    "z": 0.0
+               },
+               "m_localRotation": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+               },
+               "m_localScale": {
+                    "x": 0.009999999776482582,
+                    "y": 0.009999999776482582,
+                    "z": 0.009999999776482582
+               }
+          },
+          "UIRenderer": {
+               "m_UID": 101,
+               "m_name": "InteractiveKeyRenderer"
+          }
+     },
+     "Entity": {
+          "m_activeSelf": true,
+          "m_addressID": 2017204576048,
+          "m_id": 517,
+          "m_isRender": true,
+          "m_layer": 0,
+          "m_layerCollision": 1,
+          "m_name": "InteractiveKey (Food Table) (24)",
+          "m_prefabID": 0
+     },
+     "Parent": "SampleTable (22)"
+}

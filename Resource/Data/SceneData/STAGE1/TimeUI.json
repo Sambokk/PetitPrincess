@@ -1,0 +1,130 @@
+{
+     "Components": {
+          "DirectionalLight": {
+               "m_ambient": {
+                    "w": 0.9686274528503418,
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+               },
+               "m_bloomIntensity": 0.5,
+               "m_bloomThreshold": 2.0,
+               "m_color": {
+                    "x": 0.8619731068611145,
+                    "y": 0.8964799046516418,
+                    "z": 0.9424887895584106
+               },
+               "m_direction": {
+                    "x": -3.7770209312438965,
+                    "y": -8.100001335144043,
+                    "z": 4.8000006675720215
+               },
+               "m_intensity": 0.14000000059604645,
+               "m_tonemapThreshold": 1.399999976158142
+          },
+          "MeshFilter": {
+               "PBRSet": {
+                    "baseColor": {
+                         "w": 1.0,
+                         "x": 1.0,
+                         "y": 1.0,
+                         "z": 1.0
+                    },
+                    "metallic": 0.0,
+                    "roughness": 1.0,
+                    "useBaseColorMap": true,
+                    "useMetallicMap": false,
+                    "useNormalMap": false,
+                    "useRoughnessMap": false
+               },
+               "m_UID": 15,
+               "m_cloneModelKey": 54,
+               "m_cullingBox": {
+                    "x": 10.0,
+                    "y": 10.0
+               },
+               "m_cullingOff": false,
+               "m_modelKey": [
+                    91,
+                    50,
+                    93,
+                    32,
+                    84,
+                    105,
+                    109,
+                    101,
+                    114,
+                    85,
+                    73,
+                    95,
+                    99,
+                    108,
+                    111,
+                    110,
+                    101
+               ],
+               "m_name": ""
+          },
+          "SunLight": {
+               "m_UID": 12,
+               "m_name": ""
+          },
+          "TextRender": {
+               "m_UID": 14,
+               "m_boxSize": {
+                    "x": 300.0,
+                    "y": 50.0
+               },
+               "m_color": {
+                    "w": 1.0,
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+               },
+               "m_fontSize": 25,
+               "m_leftTop": {
+                    "x": 1712.0,
+                    "y": 253.0
+               },
+               "m_name": "",
+               "m_text": "16 : 37"
+          },
+          "TimerUI": {
+               "m_UID": 13,
+               "m_name": ""
+          },
+          "Transform": {
+               "m_localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+               },
+               "m_localRotation": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+               },
+               "m_localScale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+               }
+          },
+          "UIRenderer": {
+               "m_UID": 16,
+               "m_name": ""
+          }
+     },
+     "Entity": {
+          "m_activeSelf": true,
+          "m_addressID": 2544008073648,
+          "m_id": 502,
+          "m_isRender": true,
+          "m_layer": 0,
+          "m_layerCollision": 1,
+          "m_name": "TimeUI",
+          "m_prefabID": 0
+     },
+     "Parent": "GameManager"
+}

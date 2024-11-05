@@ -1,0 +1,164 @@
+{
+     "Components": {
+          "CapsuleCollider": {
+               "m_UID": 24,
+               "m_angularDamping": 0.05000000074505806,
+               "m_disableGravity": false,
+               "m_dynamicFriction": 0.5,
+               "m_freezePositionX": false,
+               "m_freezePositionY": false,
+               "m_freezePositionZ": false,
+               "m_freezeRotationX": true,
+               "m_freezeRotationY": true,
+               "m_freezeRotationZ": true,
+               "m_halfHeight": 0.5,
+               "m_isTrigger": false,
+               "m_linearDamping": 0.0,
+               "m_mass": 10.0,
+               "m_name": "",
+               "m_offset": {
+                    "x": 0.0,
+                    "y": 1.0,
+                    "z": 0.0
+               },
+               "m_radius": 0.5,
+               "m_restitution": 0.0,
+               "m_shapeType": 1,
+               "m_staticFriction": 0.5,
+               "m_type": 1
+          },
+          "MeshFilter": {
+               "PBRSet": {
+                    "baseColor": {
+                         "w": 1.0,
+                         "x": 1.0,
+                         "y": 1.0,
+                         "z": 1.0
+                    },
+                    "metallic": 0.0,
+                    "roughness": 1.0,
+                    "useBaseColorMap": true,
+                    "useMetallicMap": false,
+                    "useNormalMap": false,
+                    "useRoughnessMap": false
+               },
+               "m_UID": 20,
+               "m_cloneModelKey": 15,
+               "m_cullingBox": {
+                    "x": 10.0,
+                    "y": 10.0
+               },
+               "m_cullingOff": false,
+               "m_modelKey": [
+                    91,
+                    52,
+                    93,
+                    32,
+                    80,
+                    108,
+                    97,
+                    121,
+                    101,
+                    114,
+                    95,
+                    99,
+                    108,
+                    111,
+                    110,
+                    101
+               ],
+               "m_name": ""
+          },
+          "MeshRenderer": {
+               "m_UID": 19,
+               "m_name": "Player"
+          },
+          "PetitCamera": {
+               "m_UID": 25,
+               "m_name": "",
+               "m_posOffset": {
+                    "x": 0.0,
+                    "y": 20.0,
+                    "z": -17.5
+               }
+          },
+          "PlayerFSM": {
+               "m_UID": 22,
+               "m_name": ""
+          },
+          "PlayerMoveScript": {
+               "m_UID": 21,
+               "m_basicScoreIncrease": 1000,
+               "m_blockadeActionTime": 1.5,
+               "m_decreaseHunger": 0.004999999888241291,
+               "m_deliciousScoreIncrease": 2000,
+               "m_dissatisfactionMoveSpeed": 6.0,
+               "m_headVector": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": -1.0
+               },
+               "m_hunger": 1.0,
+               "m_hungerNormalState": 0.5,
+               "m_hungerSatisfactionState": 0.699999988079071,
+               "m_isBlockadeAction": false,
+               "m_isPlayerHidden": false,
+               "m_moveSpeed": 15.0,
+               "m_name": "",
+               "m_normalMoveSpeed": 10.0,
+               "m_notEatenTime": 5.0,
+               "m_satisfactionMoveSpeed": 15.0,
+               "m_score": 0,
+               "m_skillCount": 0,
+               "m_speedUpBuffTime": 3.0,
+               "m_targetVector": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+               }
+          },
+          "RayCaster1": {
+               "m_UID": 23,
+               "m_distance": 5.0,
+               "m_name": "",
+               "m_startPosOffset": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.5
+               },
+               "m_unitDirOffset": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 1.0
+               }
+          },
+          "Transform": {
+               "m_localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+               },
+               "m_localRotation": {
+                    "w": -1.1920928955078125e-07,
+                    "x": 0.0,
+                    "y": 0.9999998807907104,
+                    "z": -0.0
+               },
+               "m_localScale": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+               }
+          }
+     },
+     "Entity": {
+          "m_activeSelf": true,
+          "m_addressID": 2544008074224,
+          "m_id": 503,
+          "m_isRender": true,
+          "m_layer": 0,
+          "m_layerCollision": 8,
+          "m_name": "Player",
+          "m_prefabID": 0
+     }
+}

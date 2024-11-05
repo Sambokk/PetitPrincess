@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Others">
+      <UniqueIdentifier>{65289b7b-4773-4d6a-b4f6-301da0ad5672}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3_Volume">
+      <UniqueIdentifier>{4f7f5739-a1a1-4534-b248-f62d5603d1a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1_Calculate">
+      <UniqueIdentifier>{f6f8af4c-8282-4451-9994-48daf89399e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2_Transform">
+      <UniqueIdentifier>{37f1d1dd-7493-4a17-a4ae-9fe3db3afe42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="임시용">
+      <UniqueIdentifier>{5eed6fa1-a03c-4cbe-8e00-df4c6a1c5b0e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Box.h">
+      <Filter>3_Volume</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Others</Filter>
+    </ClInclude>
+    <ClInclude Include="MathUtill.h">
+      <Filter>1_Calculate</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3.h">
+      <Filter>2_Transform</Filter>
+    </ClInclude>
+    <ClInclude Include="Quaternion.h">
+      <Filter>2_Transform</Filter>
+    </ClInclude>
+    <ClInclude Include="Rotator.h">
+      <Filter>1_Calculate</Filter>
+    </ClInclude>
+    <ClInclude Include="Sphere.h">
+      <Filter>3_Volume</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix4x4.h">
+      <Filter>1_Calculate</Filter>
+    </ClInclude>
+    <ClInclude Include="TransformMath.h">
+      <Filter>2_Transform</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix3x3.h">
+      <Filter>1_Calculate</Filter>
+    </ClInclude>
+    <ClInclude Include="Plane.h">
+      <Filter>1_Calculate</Filter>
+    </ClInclude>
+    <ClInclude Include="Frustum.h">
+      <Filter>3_Volume</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector4.h">
+      <Filter>1_Calculate</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2.h">
+      <Filter>1_Calculate</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicsTransfer.h">
+      <Filter>임시용</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Box.cpp">
+      <Filter>3_Volume</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Others</Filter>
+    </ClCompile>
+    <ClCompile Include="MathModule.cpp">
+      <Filter>Others</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector3.cpp">
+      <Filter>2_Transform</Filter>
+    </ClCompile>
+    <ClCompile Include="Quaternion.cpp">
+      <Filter>2_Transform</Filter>
+    </ClCompile>
+    <ClCompile Include="Rotator.cpp">
+      <Filter>1_Calculate</Filter>
+    </ClCompile>
+    <ClCompile Include="Sphere.cpp">
+      <Filter>3_Volume</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix4x4.cpp">
+      <Filter>1_Calculate</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix3x3.cpp">
+      <Filter>1_Calculate</Filter>
+    </ClCompile>
+    <ClCompile Include="TransformMath.cpp">
+      <Filter>2_Transform</Filter>
+    </ClCompile>
+    <ClCompile Include="Plane.cpp">
+      <Filter>1_Calculate</Filter>
+    </ClCompile>
+    <ClCompile Include="Frustum.cpp">
+      <Filter>3_Volume</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector4.cpp">
+      <Filter>1_Calculate</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2.cpp">
+      <Filter>1_Calculate</Filter>
+    </ClCompile>
+    <ClCompile Include="MathHeaders.h">
+      <Filter>Others</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

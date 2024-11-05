@@ -11,8 +11,8 @@
 *.csproj.pidb
 
 # Build directories
-#Debug/
-#Release/
+Debug/
+Release/
 x64/
 Library/
 Temp/
